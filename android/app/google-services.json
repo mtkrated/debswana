@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046412412390",
+    "firebase_url": "https://debswana-5569c.firebaseio.com",
+    "project_id": "debswana-5569c",
+    "storage_bucket": "debswana-5569c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046412412390:android:dd03ad4cb37b6626f9c227",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046412412390-9ub88fdosldf2kji5vsgflir966o8lg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20WMnlgrbY8EbgW93pPhgvcksGzw8fOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046412412390-9ub88fdosldf2kji5vsgflir966o8lg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
